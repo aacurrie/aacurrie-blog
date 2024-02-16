@@ -10,5 +10,3 @@ links:
 ---
 
 # Post 1
-
-fdfd
