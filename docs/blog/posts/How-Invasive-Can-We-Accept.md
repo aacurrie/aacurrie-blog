@@ -19,6 +19,14 @@ In the previous post, we talked about the invasive nature of anti-cheat systems 
 
 In a technical sense, software protoctors such as Lockdown Browser *__are__* malware. They may not have the same maliciuos intentions as malware we commonly know, but they exhibit extremely similar behavior to rootkits or any other unauthorized software. Just as malware digs through your files and directories searching for personal information, proctoring software does the same just with a different purpose.
 
+#
+
+![lockdown](https://www.montclair.edu/responsive-media/cache/itds/wp-content/uploads/sites/248/2021/11/LDBWebcamCheck.png.3.1x.generic.jpg)
+
+<center><span style="color: #8c8c8c; font-family: Babas; font-size: .9em;">Typical checks of proctoring software</span></center>
+
+#
+
 As proctoring software delves deep into your system, it raises significant security concerns:
 
 - __Vulnerabilities and Exploits__: Like any software, proctoring tools are susceptible to bugs, vulnerabilities, and exploits. If not properly secured, these weaknesses could be exploited by malicious actors to gain unauthorized access to your system, compromising its integrity and exposing your data to potential theft or manipulation
