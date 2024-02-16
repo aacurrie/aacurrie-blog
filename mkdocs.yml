@@ -1,4 +1,4 @@
-site_name: Aaron's Blog
+site_name: Aaron Currie
 site_url: https://aacurrie.github.io/aacurrie-blog
 theme:
   name: material
@@ -26,8 +26,8 @@ theme:
           name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: red
-      accent: light blue
+      primary: white
+      accent: light red
       toggle:
           icon: material/toggle-switch-off-outline
           name: Switch to dark mode
@@ -55,6 +55,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - blog
 
 copyright: |
   &copy; 2024 <a href="https://github.com/aacurrie"  target="_blank" rel="noopener">Aaron Currie</a>
