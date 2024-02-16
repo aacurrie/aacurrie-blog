@@ -35,11 +35,13 @@ Cheaters can use drivers that load *before* the kernel boots, abusing the Extens
 
 ## 1. Virtual Machines
 
+![Virtual Machines](https://webimages.mongodb.com/_com_assets/cms/lh54s33za1fuqrg98-VM.jpg?auto=format%252Ccompress)
+
 ## 2. Dual Booting
 
 ![dualboot](https://i.stack.imgur.com/pinQH.png)
 
-Dual booting is when
+Dual booting having a seperate or different version of an operating system on a differnet partition of your hard drive. This allows you to run a proctoring software and test on a one partition while your the rest of yor data can safely exisit on another partition. This is completely legitimate way of taking a test as you would still probably running the software proctor. It it simply wouldn't be able to access the data stored on the other partition. One downside of this method is that you would have to sacrifice space on your drive for the other partition or get a seperate SSD entirely.
 
 ## 3. Seperate Computer
 Having a "burner device" is often seen as a workaround for bad actors seeking to evade the gaze of proctoring software or anti-cheat systems. This term refers to a disposable or secondary device specifically used for the purpose of taking exams or playing games without the scrutiny of these monitoring tools. While some may view this as a practical solution to maintain privacy and autonomy, others argue that it undermines the integrity of assessments, something I agree with. The arguement of "privacy" doesn't go far considering these second devices don't typically store personal information, so running a proctor software wouldn't be a concern if you had access to one. But, if the privacy of your main device is worry, these is still an ethical way to use a secondary device.
